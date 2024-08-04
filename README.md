@@ -1,8 +1,13 @@
 Name: HARSHINI S S
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS4049
+
 Domain: Cybersecurity & Ethical hacking
+
 Duration: July to August 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the Project
@@ -10,13 +15,17 @@ Overview of the Project
 Project: PASSWORD STRENGTH CHECKER
 
 Objective
+
   The provided Java code is a simple password strength checker. Here's an overview of its functionality:
 
 Key Activities
+
   1. Class Declaration:
+     
    - The class is named PasswordStrengthChecker.
 
   2. checkPasswordStrength Method:
+     
    - This static method takes a String parameter named password and evaluates its strength.
    - A score variable is initialized to 0.
    - The method then checks for various criteria to increment the score:
@@ -33,6 +42,7 @@ Key Activities
      - 0-1: "Very Weak"
 
  3. Main Method:
+    
    - The main method serves as the entry point of the program.
    - It uses a Scanner to read a password input from the user.
    - It calls checkPasswordStrength to determine the password's strength.
