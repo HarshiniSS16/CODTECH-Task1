@@ -48,3 +48,8 @@ Key Activities
    - It calls checkPasswordStrength to determine the password's strength.
    - The result is printed to the console.
    - Finally, the scanner is closed to free resources.
+
+OUTPUT:
+
+![WhatsApp Image 2024-08-04 at 20 41 51_088c8e82](https://github.com/user-attachments/assets/d799cee5-df93-443d-a24a-90666866c696)
+
